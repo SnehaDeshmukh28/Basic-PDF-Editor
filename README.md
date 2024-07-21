@@ -13,7 +13,7 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/PDF-Editor
+    git clone https://github.com/SnehaDeshmukh28/Basic-PDF-Editor
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -21,30 +21,34 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
     ```
 3. **Install the required packages**:
     ```bash
-    pip install PyPDF2
+    pip install PyPDF2 tk
     ```
 
 ## Usage
 
 1. **Run the application**:
     ```bash
-    python app.py
+    python pdf_editor.py
     ```
 2. **Splash Screen 🎬**: The app will start with a splash screen and then transition to the main PDF editor interface.
+
 3. **Upload PDFs**: Use the "Add PDFs" button to select PDF files.
+
 4. **Manage Pages**:
     - **Select Pages**: Click on page labels to select or deselect them.
     - **Delete Pages**: Click "Delete Pages" to remove selected pages.
+
 5. **Save or Merge**:
     - **Save New PDF**: Click "Save New PDF" to save the changes.
+    - **For Merge PDFs**: Click "Add PDFs" to add and select the ones to merge.
     - **Merge PDFs**: Click "Merge PDFs" to combine selected files into a new PDF.
 
 ## Example
 
-1. **Splash Screen**:
-    ![Splash Screen](images/splash_screen.png)
-2. **Main App**:
-    ![Main App](images/main_app.png)
+1. **Home Screen**:
+    ![Home Screen](images/Home.png)
+2. **Delete Functionality**:
+    ![UseCase](images/UseCase.png)
 
 ## License
 
