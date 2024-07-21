@@ -9,7 +9,7 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
 - **Merge PDFs 🔗**: Combine multiple PDFs into a single document.
 - **Save Changes 💾**: Save the edited PDF or merged document.
 
-## Installation
+## Installation 🛠️
 
 1. **Clone the repository**:
     ```bash
@@ -24,7 +24,7 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
     pip install PyPDF2 tk
     ```
 
-## Usage
+## Usage 🚀
 
 1. **Run the application**:
     ```bash
@@ -32,18 +32,18 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
     ```
 2. **Splash Screen 🎬**: The app will start with a splash screen and then transition to the main PDF editor interface.
 
-3. **Upload PDFs**: Use the "Add PDFs" button to select PDF files.
+3. **Upload PDFs 📄**: Use the "Add PDFs" button to select PDF files.
 
-4. **Manage Pages**:
+4. **Manage Pages 📋**:
     - **Select Pages**: Click on page labels to select or deselect them.
     - **Delete Pages**: Click "Delete Pages" to remove selected pages.
 
-5. **Save or Merge**:
+5. **Save or Merge 🗂️**:
     - **Save New PDF**: Click "Save New PDF" to save the changes.
     - **For Merge PDFs**: Click "Add PDFs" to add and select the ones to merge.
     - **Merge PDFs**: Click "Merge PDFs" to combine selected files into a new PDF.
 
-## Example
+## Example 🖼️
 
 1. **Home Screen**:
 
@@ -53,11 +53,11 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
 
     ![UseCase](images/UseCase.png)
 
-## License
+## License 📜
 
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
+## Contact 📫
 
 For any questions or support:
 
@@ -66,4 +66,4 @@ For any questions or support:
 
 ---
 
-Thank you for using PDF Editor! We hope it helps you efficiently manage your PDF documents.
+Thank you for using PDF Editor! We hope it helps you efficiently manage your PDF documents. 😊
