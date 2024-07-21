@@ -46,8 +46,11 @@ PDF Editor is a user-friendly desktop application for managing PDF files. With t
 ## Example
 
 1. **Home Screen**:
+
     ![Home Screen](images/Home.png)
+    
 2. **Delete Functionality**:
+
     ![UseCase](images/UseCase.png)
 
 ## License
